@@ -1,0 +1,6 @@
+Containerfile
+*.png
+.vscode/
+.Rhistory
+.RData
+.Rproj.user/
